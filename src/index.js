@@ -1,3 +1,3 @@
 import './main.css'
 
-document.write('Hello PIDOR!')
+document.write('Hello Developer!')
